@@ -6,7 +6,7 @@ An Interpretable Model for Healthcare Insurance Fraud Detection
 
 ## Data Source
 
-This dataset originates from the 15^{th} China University Student Service Outsourcing Innovation and Entrepreneurship Competition. The data used in this repository is publicly available and can be freely accessed.
+This dataset originates from the 15th China University Student Service Outsourcing Innovation and Entrepreneurship Competition. The data used in this repository is publicly available and can be freely accessed.
 
 ## Original Link
 
