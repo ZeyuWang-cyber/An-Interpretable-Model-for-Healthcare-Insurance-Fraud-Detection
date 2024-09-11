@@ -11,7 +11,7 @@ This dataset originates from the 15th China University Student Service Outsourci
 ## Original Link
 
 The original dataset can be downloaded from the following URL:  
-[Original Dataset Link](https://fwwb.org.cn/attached/file/20231228/20231228105524_336.zip)
+[Original Dataset Link](http://fwwb.org.cn/attached/file/20231228/20231228105524_336.zip)
 
 ## Alternative Links
 
