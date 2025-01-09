@@ -1,3 +1,14 @@
+# Important Notice
+
+This repository is now archived. The dataset linked in this repository has been updated.
+
+Please refer to the new repository for the latest version of the dataset:
+
+[New Dataset Repository](https://github.com/ZeyuWang-cyber/ML-Healthcare-Fraud-Detection)
+
+Thank you for your understanding.
+
+
 # Title of our paper
 
 An Interpretable Model for Healthcare Insurance Fraud Detection
